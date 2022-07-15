@@ -1,2 +1,2 @@
-# vbs-lib
+# vbs-libs
 модули vbs
